@@ -48,3 +48,5 @@ Report Design
 
 **Conclusion**
 This project enhanced my understanding of data analytics by transforming raw sales data into meaningful visualizations and actionable insights. It strengthened my Power BI and Excel skills while improving my ability to analyze business data effectively.
+
+**Dashboard Link:** https://github.com/SanjanaTarlekar/Amazon-Sales-Dashboard/blob/main/Amazon_Sales_Dashboard.png
